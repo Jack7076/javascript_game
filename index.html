@@ -1,3 +1,19 @@
-<button onclick="startGame()">Play!</button>
-<script src="jquery.js" type="text/javascript"></script>
-<script src="game.js" type="text/javascript"></script>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cube Jump Pro!</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body onload="startGame()">
+	<button id="play" onclick="startGame()">Play!</button>
+	<script src="jquery.js" type="text/javascript"></script>
+	<script src="game.js" type="text/javascript"></script>
+	<img src="spaz.gif" id="spaz" class="spaz" style="display: none;">
+	<p>Timer: </p><p id="timer">0</p>
+	<p class="spaz" style="display: none;">
+		
+		Congrats You beat the worlds easiest game!
+
+	</p>
+</body>
+</html>
