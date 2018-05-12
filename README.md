@@ -1,3 +1,4 @@
+[Play](https://jack7076.github.io/javascript_game/)
 This is my first attempt at a JavaScript (canvas) based game
 
 # Introduction
