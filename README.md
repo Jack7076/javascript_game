@@ -11,4 +11,3 @@ Catch all "Spagehts" (total 9)
 
 # Copying
 This game may be coppied for any reason.
-All that I ask is that you give credit and link back to this github repo.
